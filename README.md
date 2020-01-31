@@ -1,7 +1,8 @@
 # OOPS-Lab-Assignment
 OOPS Lab Assignment #01
-
-#Batch 007
+# UPES 
+# BTECH. CSE AI & ML
+# Batch 007
 
 Greetings my fellow team-mates!
 
